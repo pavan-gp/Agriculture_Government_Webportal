@@ -1,0 +1,27 @@
+# Krishi Kalyan - Agricultural Schemes Portal
+# Technical Requirements
+
+## Core Technologies
+HTML5
+CSS3
+JavaScript (ES6+)
+
+## External Dependencies
+- Font Awesome 6.0.0 (Icons)
+
+## Browser Compatibility
+- Chrome 80+
+- Firefox 75+
+- Safari 13+
+- Edge 80+
+- Mobile browsers (iOS Safari, Chrome Mobile)
+
+## System Requirements
+- Modern web browser with JavaScript enabled
+- Internet connection for CDN resources
+- Minimum screen resolution: 320x480px
+
+## No Backend Required
+- Pure frontend application
+- No database dependencies
+- No server-side processing
